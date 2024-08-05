@@ -1,5 +1,5 @@
 ol.proj.proj4.register(proj4);
-//ol.proj.get("EPSG:3403").setExtent([-2692401.775959, 5406975.168277, 1870568.272686, 6716247.530655]);
+//ol.proj.get("EPSG:3403").setExtent([-251580.545706, 5939475.916108, 889161.966456, 6266794.006703]);
 var wms_layers = [];
 
 var format_AlbertaExportedshp_0 = new ol.format.GeoJSON();
